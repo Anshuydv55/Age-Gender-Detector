@@ -20,5 +20,15 @@ Simple age and Gender Detector using machine learning
 8. Click on detect button
 9. View results
     
- ## Sample Out
- 
+ ## Sample Outputs
+ Sample Output 1:
+ ![ Sample Output 1](https://github.com/Anshuydv55/Age-Gender-Detector/blob/main/Output_sample_1.jpeg
+)
+
+Sample Output 2:
+ ![ Sample Output 2](https://github.com/Anshuydv55/Age-Gender-Detector/blob/main/Output_sample_2.jpeg
+)
+
+Sample Output 3:
+ ![ Sample Output 2](https://github.com/Anshuydv55/Age-Gender-Detector/blob/main/Output_sample_3.jpeg
+)
